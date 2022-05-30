@@ -12,7 +12,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://darijush.github.io/05-30-coming-soon/
 
-Design: [Coming soon]()
+Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png)
 
 ## Project features
 
