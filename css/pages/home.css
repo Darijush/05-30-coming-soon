@@ -79,10 +79,30 @@ footer.container {
     padding-top: 0;
 }
 footer > .row {
+
+}
+.socials{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     padding: 15px 0;
     border-bottom: 2px solid #fff;
+    gap: 20px;
+}
+.socials > a{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: none;
+    font-size: 30px;
+    color: #fff;
+    border-radius: 50%;
+    transition: all;
+}
+.socials > a:hover{
+    background-color: #fff;
+    color: var(--main-color);
 }
 .footer-bottom{
     display: flex;
